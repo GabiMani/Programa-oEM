@@ -1,5 +1,9 @@
 .cabeçalho {
+    display: flex;
+    justify-content: center;
     background-color: #393053;
+    margin: 0;
+    padding: 300px 300px;
 }
 .cabeçalho-título {
     font-size: 100px;
